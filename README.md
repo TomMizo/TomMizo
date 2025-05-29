@@ -22,10 +22,8 @@ These are hands-on projects I've built while learning and applying cloud technol
 | 🚀 Project | 🧾 Description | 🧰 Tech Used |
 |-----------|----------------|-------------|
 | [Deploy Azure VM](./cloud-labs/vm-deployment-azure) | Created and connected to a Windows Server VM via RDP | Azure, RDP |
-| [Blob Storage Lab](./cloud-labs/azure-storage-test) | Set up a storage account, container, and access permissions | Azure Storage |
-| [Entra ID User Provisioning](./cloud-labs/entra-id-user-setup) | Simulated onboarding with user/group creation and MFA setup | Entra ID |
-| [Power Automate Alerts](./cloud-labs/power-automate-alerts) | Built live alerts for high/critical support tickets hitting our queue | Power Automate |
-| [PTO Workflow System](./cloud-labs/sharepoint-pto-request) | Built an automated PTO request + approval system in SharePoint | SharePoint, Power Automate |
+| [Power Automate Alerts](./power-automate-flows/power-automate-critical-ticket-alert) | Built live alerts for high/critical support tickets hitting our queue | Power Automate |
+| [PTO Workflow System](./power-automate-flows/power-automate-ptorequest-flow) | Built an automated PTO request + approval system in SharePoint | SharePoint, Power Automate |
 
 ---
 
