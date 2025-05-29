@@ -1,45 +1,44 @@
-# 👋 Thomas Mizobuchi
+# 👋 Hey there, I'm Thomas Mizobuchi
 
-IT Support Specialist with 10+ years of experience supporting enterprise environments, now transitioning into a Cloud Support / Azure Technician role.
+I’m an IT Support Specialist with over 10 years of real-world experience helping users, solving problems, and keeping systems running. Now, I’m focused on the next step: supporting cloud-first environments and modern IT infrastructure as a Cloud Support or Azure Technician.
 
-I'm passionate about building efficient support processes, automating repetitive tasks, and supporting secure, scalable infrastructure using Microsoft technologies like Intune, Entra ID, Power Automate, and Azure.
-
----
-
-## 🧰 Technical Skills
-
-- **Cloud & Endpoint:** Microsoft Intune, Autopilot, Microsoft 365, Entra ID (Azure AD)
-- **Automation:** Power Automate, SharePoint Online
-- **Systems:** Windows 10/11, Active Directory, PowerShell, SCCM (basic), Citrix
-- **Support Tools:** ServiceNow, VPN, RDP, Exchange, MFA, Office 365
+I’ve spent years building strong technical fundamentals across Microsoft 365, Intune, and endpoint management — and now I’m actively leveling up my skills in Azure, automation, and cloud identity.
 
 ---
 
-## 🧪 Labs & Projects
+## ⚙️ What I Work With
 
-Each project below includes a walkthrough, objectives, and screenshots where applicable.
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [Azure VM Deployment](./cloud-labs/vm-deployment-azure) | Deployed a Windows Server VM using the Azure Portal and connected via RDP | Azure, RDP |
-| [Azure Storage Setup](./cloud-labs/azure-storage-test) | Created and tested a blob container and uploaded files securely | Azure Storage |
-| [User & Group Setup in Entra ID](./cloud-labs/entra-id-user-setup) | Created cloud user and assigned roles/groups | Entra ID |
-| [Power Automate Alerts](./cloud-labs/power-automate-alerts) | Built automated alerts for high/critical ticket notifications | Power Automate |
-| [SharePoint PTO System](./cloud-labs/sharepoint-pto-request) | Built PTO request tracker using SharePoint lists + Power Automate | SharePoint, Power Automate |
+- **Cloud & Endpoint Management:** Intune, Autopilot, Entra ID (Azure AD), Microsoft 365
+- **Automation:** Power Automate (alerts, workflows), SharePoint customization
+- **Support Systems:** ServiceNow, Active Directory, Exchange, SCCM (basic)
+- **Scripting & Tools:** PowerShell, Windows 10/11, MFA, Citrix, RDP
 
 ---
 
-## 🎯 Career Goals
+## 💼 Real-World Projects & Labs
 
-I’m seeking a position where I can:
-- Support cloud-first environments
-- Automate and optimize IT processes
-- Expand my Azure and Microsoft 365 expertise
+These are hands-on projects I've built while learning and applying cloud technologies. Each folder includes setup steps, what I learned, and screenshots where helpful.
 
-Currently pursuing **AZ-900: Microsoft Azure Fundamentals** and continuously building hands-on experience via labs and projects.
+| 🚀 Project | 🧾 Description | 🧰 Tech Used |
+|-----------|----------------|-------------|
+| [Deploy Azure VM](./cloud-labs/vm-deployment-azure) | Created and connected to a Windows Server VM via RDP | Azure, RDP |
+| [Blob Storage Lab](./cloud-labs/azure-storage-test) | Set up a storage account, container, and access permissions | Azure Storage |
+| [Entra ID User Provisioning](./cloud-labs/entra-id-user-setup) | Simulated onboarding with user/group creation and MFA setup | Entra ID |
+| [Power Automate Alerts](./cloud-labs/power-automate-alerts) | Built live alerts for high/critical support tickets hitting our queue | Power Automate |
+| [PTO Workflow System](./cloud-labs/sharepoint-pto-request) | Built an automated PTO request + approval system in SharePoint | SharePoint, Power Automate |
 
 ---
 
-## 📫 Contact
+## 🧭 Where I'm Headed
 
-- 📧 [ThomasMizobuchi@gmail.com](mailto:ThomasMizobuchi@gmail.com)
+I'm actively pivoting into cloud-focused roles — aiming to support modern workplace environments, improve IT operations, and grow my knowledge of Azure and automation. Currently working through:
+- **AZ-900: Microsoft Azure Fundamentals**
+- Intermediate labs in Intune, device compliance, and backup/restore
+
+---
+
+## 🤝 Let’s Connect
+
+If you’re hiring, mentoring, or just want to talk cloud tech:
+📧 [ThomasMizobuchi@gmail.com](mailto:ThomasMizobuchi@gmail.com)
+
